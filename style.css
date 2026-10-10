@@ -8,6 +8,7 @@
     padding: 10px;
     width:200;
     margin:10;
+    color:green;
     position: relative;
     top:30;
 }
@@ -49,8 +50,8 @@ img{
 }
 #home{
     position:relative;
-    top:-750;
-    left:100;
+    top:-730px;
+    left:100px;
     background:grey;
     padding:10;
     border:none;
@@ -58,8 +59,8 @@ img{
 }
 #menu{
     position:relative;
-    top:-750;
-    left:100;
+    top:-730px;
+    left:100px;
     background: white;
     padding:10;
     border:none;
@@ -122,7 +123,7 @@ height:20;
 }
 #home2{
     position:relative;
-    top:-785;
+    top:-765;
     left:100;
     background:white;
     padding:10;
@@ -131,7 +132,7 @@ height:20;
 }
 #menu2 {
     position:relative;
-    top:-785;
+    top:-765;
     left:100;
     background: grey;
     padding:10;
